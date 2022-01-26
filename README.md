@@ -1,5 +1,5 @@
 # Exercice du 26 janvier 2022
-##Requête 
+## Requête 
 
 ```sparql
 #defaultView:Map
