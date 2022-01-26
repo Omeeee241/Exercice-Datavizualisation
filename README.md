@@ -9,10 +9,9 @@ WHERE {
   ?item wdt:P18 ?image.
   ?item wdt:P276 ?lieudeconservation.
   ?lieudeconservation wdt:P625 ?coord.
-  ?item wdt:P17 wd:Q30
+  ?lieudeconservation wdt:P17 wd:Q30
   SERVICE wikibase:label { bd:serviceParam wikibase:language "en". } 
   } 
-
 
 ```
 
