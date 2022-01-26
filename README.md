@@ -1,6 +1,6 @@
 Requête 
 
-```
+```sparql
 #defaultView:Map
 SELECT  ?item  ?itemLabel ?image ?lieudeconservation ?coord
 WHERE {
